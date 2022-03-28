@@ -1,0 +1,6 @@
+.idea/
+main.cpp
+test.cpp
+test.h
+cmake-build-debug/
+version_0.1/cmake-build-debug/ 
